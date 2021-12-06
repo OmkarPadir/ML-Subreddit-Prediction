@@ -10,3 +10,4 @@
 1] GetImageNamesinCSV : List of downloaded images <br>
 2] Rename Images.py : Rename images to avoid overwriting due to same names <br>
 3] SplitFiles.py : Split images in Train and Test Set <br>
+4] ForCombinedModel.py : Create Image folder containing valid titles only. Used as an input in combined model <br>
