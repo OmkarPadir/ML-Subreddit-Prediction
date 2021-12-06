@@ -5,7 +5,7 @@ import os
 import random
 import shutil
 
-source = 'images_sports_2021'
+source = 'Combined'
 dest_train = 'Train Set'
 dest_test = 'Test Set'
 files = os.listdir(source)
