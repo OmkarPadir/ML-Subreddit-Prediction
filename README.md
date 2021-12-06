@@ -12,6 +12,6 @@
 3] SplitFiles.py : Split images in Train and Test Set <br>
 4] ForCombinedModel.py : Create Image folder containing valid titles only. This image folder is used as an input in combined model <br>
 
-To check the results of final combined model run the following commands in sequence: <br>
+To check the results of final combined model unzip the data files and run the following commands in sequence: <br>
 `python3 ForCombinedModel.py` <br>
 `python3 combine_models.py` <br>
